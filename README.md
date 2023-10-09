@@ -25,4 +25,7 @@ The variables included in this analysis include those on:
 ### Files
 
 `PHP_2550_Project_1_Final.Rmd` is an R Markdown file containing the code and report pertaining to this analysis.
+
 `PHP 2550 Project 1.pdf` is a pdf file containing the code and report pertaining to this analysis.
+
+`PHP_2550_Project_1_Code.R` is an R script file containing the code used in this analysis.
