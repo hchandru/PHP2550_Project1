@@ -21,3 +21,7 @@ The variables included in this analysis include those on:
 -   Self-regulation in child (self-reported average cognitive reappraisal (CR) and expressive suppression (ES) scores on the Emotion Regulation Questionnaire),
 -   ADHD in child (SWAN scores on the inattentive and hyperactive items),
 -   ASD in child (absence, presence or suspicion)
+
+### Files
+
+PHP_2550_Project_1_Final.Rmd is an R Markdown file containing the code and report pertaining to this analysis.
