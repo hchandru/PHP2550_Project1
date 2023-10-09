@@ -6,6 +6,8 @@ The main objective of this exploratory data analysis is to determine the presenc
 
 ### Data
 
+The data was collected from a subset of 100 mothers who participated in a previous randomized controlled trial aimed at reducing SDP and ETS using a tailored video intervention, and their children, as part of Dr. Lauren Micalizzi's research on prenatal tobacco exposure and child outcomes at the Brown University School of Public Health. 
+
 There are 49 observations of 78 variables in this data set. Each observation corresponds to a particular parent-child pair and the variables contain information on demographics, on exposure, and on outcomes in children collected from both parents and the children. The data also contains information on outcomes in the parents, but these are not of interest in our current study.
 
 #### Variables
@@ -26,6 +28,6 @@ The variables included in this analysis include those on:
 
 `PHP_2550_Project_1_Final.Rmd` is an R Markdown file containing the code and report pertaining to this analysis.
 
-`PHP 2550 Project 1.pdf` is a pdf file containing the code and report pertaining to this analysis.
+`Chandru_PHP 2550 Project 1.pdf` is a pdf file containing the code and report pertaining to this analysis.
 
 `PHP_2550_Project_1_Code.R` is an R script file containing the code used in this analysis.
